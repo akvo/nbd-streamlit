@@ -7,7 +7,9 @@ st.set_page_config(
 )
 
 st.title("River Basin Explorer")
-st.subheader("Interactive 3D Visualizations of Land Use Change")
+st.subheader("Interactive Visualizations and  Land Use Change explorer")
+
+st.markdown('#### [How to Use](https://www.loom.com/share/9a562bd1b57b47319473a1446b35626d)')
 
 st.markdown("""
 This application provides interactive visualizations of river basins in the Mara region,
