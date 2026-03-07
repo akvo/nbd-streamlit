@@ -21,6 +21,7 @@ Select a basin from the sidebar to explore:
 
 - **Mara Basin** - Full Mara River basin spanning Kenya and Tanzania
 - **Lower Mara Basin** - Lower section of the Mara River basin
+- **Sio Basin** - Trans-boundary river basin spanning Kenya and Uganda
 
 ### Visualizations
 
